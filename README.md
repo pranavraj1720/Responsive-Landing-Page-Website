@@ -7,7 +7,7 @@
     <br />
     <br />
     <a href="https://www.youtube.com/channel/UCK5YMqyy_fjAtwgu9hjxXJg/featured">
-      <img alt="youtube subscribers" width="200" height="40" title="Subscribe to my YouTube channel" src="https://img.shields.io/badge/Youtube-ea2845.svg?&style=for-the-badge&logo=Youtube&logoColor=white"/></a> 
+      <img alt="youtube subscribers" width="190" height="40" title="Subscribe to my YouTube channel" src="https://img.shields.io/badge/Youtube-ea2845.svg?&style=for-the-badge&logo=Youtube&logoColor=white"/></a> 
   
   </p>
 </p>
