@@ -23,4 +23,4 @@
 
 Subscribe the channel to see more videos like this. [Realistic Coder](https://www.youtube.com/channel/UCK5YMqyy_fjAtwgu9hjxXJg/featured)
 
-![](/preview.png)
+![](preview.png)
