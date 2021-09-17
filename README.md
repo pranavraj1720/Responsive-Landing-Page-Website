@@ -21,6 +21,6 @@
 - Responsive Downloads Section Using CSS Grid
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
-Subscribe the channel to see more videos like this. [Realistic Coder](https://www.youtube.com/channel/UCK5YMqyy_fjAtwgu9hjxXJg/featured)
+Subscribe the channel to see more videos like this. [Realistic Coder](https://www.youtube.com/channel/UCK5YMqyy_fjAtwgu9hjxXJg?sub_confirmation=1)
 
 ![](preview.png)
