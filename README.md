@@ -15,7 +15,7 @@
 
 ### Complete Responsive Illustration Website Design Tutorial
 
-- Beautiful Landing Page HTML, CSS and JAVASCRIPT.
+- Beautiful Landing Page using HTML, CSS and JAVASCRIPT.
 - Responsive Navbar With Animation
 - Responsive Features Section Using Flexbox
 - Responsive Downloads Section Using CSS Grid
