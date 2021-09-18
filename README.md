@@ -6,7 +6,7 @@
     Watch Complete Tutorial on YT 
     <br />
     <br />
-    <a href="https://youtu.be/ej-CIKcuRLk">
+    <a href="https://www.youtube.com/playlist?list=PLp_GEDwT7mZYAAjFqa7K7Xvfgi1XE8s3P">
       <img alt="youtube subscribers" width="150" height="40" title="Subscribe to my YouTube channel" src="https://img.shields.io/badge/Youtube-ea2845.svg?&style=for-the-badge&logo=Youtube&logoColor=white"/ target="blank"></a> 
   
   </p>
