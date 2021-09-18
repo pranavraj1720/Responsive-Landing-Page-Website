@@ -291,3 +291,43 @@ html{
     padding-bottom: 4rem;
 }
 /* features section ends */
+
+
+/* downloads section starts  */
+
+.download .box-container{
+    display: grid;
+    gap: 4rem;
+    grid-template-columns: repeat(auto-fit, minmax(20rem, 1fr));
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+}
+
+.download .box{
+    border: 2px solid var(--Soft-Blue);
+    box-shadow: var(--box-shadow);
+    border-radius: .5rem;
+    text-align: center;
+    padding: 2.5rem;
+}
+.download .box:hover{
+    border: 2px solid var(--Soft-Blue);
+    box-shadow: none;
+}
+
+
+.download .box h3{
+    font-size: 2rem;
+    padding: 1rem 0;
+    color: var(--Very-Dark-Blue);
+}
+
+
+
+.download .box p{
+    font-size: 1.7rem;
+    padding-bottom: 2.5rem;
+    color: var(--Grayish-Blue);
+}
+
+/* downloads section ends */
