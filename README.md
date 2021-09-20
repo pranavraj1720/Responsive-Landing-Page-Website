@@ -13,9 +13,14 @@
 </p>
 
 
-### CSS Coffee Animation
+Complete Responsive Landing Page Website Tutorial #5: Footer Section | HTML - CSS - Javascript
 
-Learn to create an coffee animation while learning some advanced concept of CSS.
+Complete Responsive Landing Page Website Design Tutorial: 
+1) Beautiful Landing Page HTML, CSS and JAVASCRIPT.
+2) Responsive Navbar With Animation
+3) Responsive Features Section Using Flexbox
+4) Responsive Downloads Section Using CSS Grid
+5) Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
 Subscribe the channel to see more videos like this. [Realistic Coder](https://www.youtube.com/channel/UCK5YMqyy_fjAtwgu9hjxXJg?sub_confirmation=1)
 
