@@ -13,13 +13,9 @@
 </p>
 
 
-### Complete Responsive Illustration Website Design Tutorial
+### CSS Coffee Animation
 
-- Beautiful Landing Page using HTML, CSS and JAVASCRIPT.
-- Responsive Navbar With Animation
-- Responsive Features Section Using Flexbox
-- Responsive Downloads Section Using CSS Grid
-- Compatible with all mobile devices and with a beautiful and pleasant user interface.
+Learn to create an coffee animation while learning some advanced concept of CSS.
 
 Subscribe the channel to see more videos like this. [Realistic Coder](https://www.youtube.com/channel/UCK5YMqyy_fjAtwgu9hjxXJg?sub_confirmation=1)
 
